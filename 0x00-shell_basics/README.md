@@ -10,3 +10,4 @@
 - 8-firstdelete script deletes betty file from /tmp/my_first_directory/
 - 9-firstdirdeletion script deletes directory my_first_directory in /tmp
 - 10-back script that change directory to previous
+- 11-lists script prints out contents of current, parent and /boot directory
