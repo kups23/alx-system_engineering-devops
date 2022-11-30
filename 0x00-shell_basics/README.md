@@ -6,3 +6,4 @@
 - 4-listmorefiles display current directory contents including hidden contents in long format
 - 5-listfilesdigitonly display current directory with numerical user and groups ids
 - my_first_directory script creates a diretory in /tmp/
+- 7-movethatfile script move file betty to /tmp/my_first_directory/
