@@ -12,3 +12,4 @@
 - 10-back script that change directory to previous
 - 11-lists script prints out contents of current, parent and /boot directory
 - 12-file_type script that shows what type of file is iamafile in tmp directory
+- 13-symbolic_link script that creates symbolic link
