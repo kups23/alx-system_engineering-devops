@@ -18,3 +18,4 @@
 - 101-clean_emacs script that delete all files ending with ~ charater
 - 102-tree script creates directory in pattern welcome/to/school
 - 103-commas script to order listing
+- school.mgc create magic file to look for string SCHOOL
