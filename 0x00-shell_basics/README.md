@@ -14,3 +14,4 @@
 - 12-file_type script that shows what type of file is iamafile in tmp directory
 - 13-symbolic_link script that creates symbolic link
 - 14-copy_html script to copy html files and do not duplicate them
+- 100-lets_move script created to move files with capital letters to /tmp/u
