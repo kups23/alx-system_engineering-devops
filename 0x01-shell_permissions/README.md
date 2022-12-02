@@ -12,3 +12,4 @@
 - 10-mirror_permissions script created to reference hello permisions to olleh
 - 11-directories_permissions script created to add execute command to sub directory for owner , group and other user
 - 12-directory_permissions script created to create directory with permission 751
+- 13-change_group script created to change group owner of hello file
