@@ -8,3 +8,4 @@
 - 6-multiple_permissions script created to add file permissions to hello file
 - 7-everybody scripts give execute permission to owner,group and other to hello file
 - 8-James_Bond scripts created to give all permission only to other users for hello file
+- 9-John_Doe script created to give certain permission to hello file
