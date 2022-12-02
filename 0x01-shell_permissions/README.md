@@ -10,3 +10,4 @@
 - 8-James_Bond scripts created to give all permission only to other users for hello file
 - 9-John_Doe script created to give certain permission to hello file
 - 10-mirror_permissions script created to reference hello permisions to olleh
+- 11-directories_permissions script created to add execute command to sub directory for owner , group and other user
