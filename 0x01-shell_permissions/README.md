@@ -11,3 +11,4 @@
 - 9-John_Doe script created to give certain permission to hello file
 - 10-mirror_permissions script created to reference hello permisions to olleh
 - 11-directories_permissions script created to add execute command to sub directory for owner , group and other user
+- 12-directory_permissions script created to create directory with permission 751
