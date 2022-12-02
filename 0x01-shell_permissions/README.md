@@ -5,3 +5,4 @@
 - 3-new_owner script created to change file owner to user bettiy
 - 4-empty script created to create file called hello
 - 5-execute script created to give excute permission to hello file
+- 6-multiple_permissions script created to add file permissions
