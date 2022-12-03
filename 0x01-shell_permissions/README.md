@@ -13,6 +13,7 @@
 - 11-directories_permissions script created to add execute command to sub directory for owner , group and other user
 - 12-directory_permissions script created to create directory with permission 751
 - 13-change_group script created to change group owner of hello file
-- 100-change_owner_and_group script created to change owner and group of all files and directories.
+- 100-change_owner_and_group script created to change owner and group of all files and directories
 - 101-symbolic_link_permissions script created to change owner and group of symbolic link
-- 102-if_only script created to change owner of a file but first checking the current owner.
+- 102-if_only script created to change owner of a file but first checking the current owner
+- 103-Star_Wars script created to play StarWorld IV episode
