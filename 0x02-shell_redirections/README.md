@@ -7,3 +7,4 @@
 - 5-firstlines script created to print first 10 lines of etc/passwd
 - 6-third_line script created  to print 3 line of iacta
 - 7-file script created with Best School and file name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+- 8-cwd_state script created to write the ls -la comman into file ls_cwd_content
