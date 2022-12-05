@@ -12,3 +12,4 @@
 - 10-no_more_js script created to delete all files with js extention
 - 11-directories script created to count directory
 - 12-newest_files script created to list 10 newst files in the directory
+- 13-unique script created to print words that appears once
