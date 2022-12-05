@@ -3,4 +3,5 @@
 - 1-confused_smiley script created to print confused smilley
 - 2-hellofile script created to print content of etc/passwd
 - 3-twofiles script created to print content of etc/passwd and etc/hosts
+- 4-lastlines script created to print last 10 lines of etc/passwd
 
