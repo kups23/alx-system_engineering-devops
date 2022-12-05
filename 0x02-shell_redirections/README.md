@@ -4,4 +4,5 @@
 - 2-hellofile script created to print content of etc/passwd
 - 3-twofiles script created to print content of etc/passwd and etc/hosts
 - 4-lastlines script created to print last 10 lines of etc/passwd
+- 5-firstlines script created to print first 10 lines of etc/passwd
 
