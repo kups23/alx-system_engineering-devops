@@ -13,3 +13,4 @@
 - 11-directories script created to count directory
 - 12-newest_files script created to list 10 newst files in the directory
 - 13-unique script created to print words that appears once
+- 14-findthatword script created to display lines containing the pattern “root” from the file /etc/passwd
