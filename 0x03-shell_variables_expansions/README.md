@@ -8,4 +8,5 @@
 - 6-create_local_variable scripts creates local viriable
 - 7-create_global_variable scripts ceates global viriable
 - 8-true_knowledge script outputs addition operation
-- 9-divide_and_rule script outputs division operation on environment viriables 
+- 9-divide_and_rule script outputs division operation on environment viriables
+- 10-love_exponent_breath script performs power operation on enironment viriables 
