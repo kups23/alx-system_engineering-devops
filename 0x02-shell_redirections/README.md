@@ -17,3 +17,4 @@
 - 15-countthatword script that count number of line where bin pattern is found in /etc/passwd
 - 16-whatsnext scrit created to 3 lines after pattern root is found
 - 17-hidethisword script created to print out lines that do not contain the pattern bin
+- 18-letteronly script created to match alphabet at the begining of the line
