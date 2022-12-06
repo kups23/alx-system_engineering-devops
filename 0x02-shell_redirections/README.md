@@ -24,4 +24,4 @@
 - 22-users_and_homes script created to show sorted users and home directories
 - 100-empty_casks print empty files names
 - 101-gifs script created that lists all the files with a .gif extension in the current directory and all its sub-directories
- 
+- 102-acrostic script created to decode message 
