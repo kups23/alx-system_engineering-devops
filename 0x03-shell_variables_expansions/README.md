@@ -5,4 +5,5 @@
 - 3-paths script counts number of directories
 - 4-global_variables scripts list environment viriable
 - 5-local_variables scripts prints local and environmental viriable with functions
-- 6-create_local_variable scripts creates local viriable 
+- 6-create_local_variable scripts creates local viriable
+- 7-create_global_variable scripts ceates global viriable 
