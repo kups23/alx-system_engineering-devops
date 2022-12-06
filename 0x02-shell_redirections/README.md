@@ -16,3 +16,4 @@
 - 14-findthatword script created to display lines containing the pattern “root” from the file /etc/passwd
 - 15-countthatword script that count number of line where bin pattern is found in /etc/passwd
 - 16-whatsnext scrit created to 3 lines after pattern root is found
+- 17-hidethisword script created to print out lines that do not contain the pattern bin
