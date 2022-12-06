@@ -15,4 +15,5 @@
 - 13-print_float script prints number with 2 decimal places
 - 100-decimal_to_hexadecimal script convert from decimal to hexadecimal
 - 101-rot13 script encodes and decodes usint Rot13
-- 102-odd script that prints every other line from the input, starting with the first line  
+- 102-odd script that prints every other line from the input, starting with the first line 
+- 103-water_and_stir script that adds the two numbers stored in the environment variables 
