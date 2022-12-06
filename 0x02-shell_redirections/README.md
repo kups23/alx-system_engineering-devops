@@ -15,3 +15,4 @@
 - 13-unique script created to print words that appears once
 - 14-findthatword script created to display lines containing the pattern “root” from the file /etc/passwd
 - 15-countthatword script that count number of line where bin pattern is found in /etc/passwd
+- 16-whatsnext scrit created to 3 lines after pattern root is found
