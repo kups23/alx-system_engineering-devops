@@ -22,4 +22,6 @@
 - 20-hiago script created to remove charater c and C
 - 21-reverse script created to reverse its inputs
 - 22-users_and_homes script created to show sorted users and home directories
-- 100-empty_casks print empty files names 
+- 100-empty_casks print empty files names
+- 101-gifs script created that lists all the files with a .gif extension in the current directory and all its sub-directories
+ 
