@@ -7,4 +7,5 @@
 - 5-local_variables scripts prints local and environmental viriable with functions
 - 6-create_local_variable scripts creates local viriable
 - 7-create_global_variable scripts ceates global viriable
-- 8-true_knowledge script outputs addition operation 
+- 8-true_knowledge script outputs addition operation
+- 9-divide_and_rule script outputs division operation on environment viriables 
