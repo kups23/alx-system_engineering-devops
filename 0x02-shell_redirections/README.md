@@ -18,3 +18,4 @@
 - 16-whatsnext scrit created to 3 lines after pattern root is found
 - 17-hidethisword script created to print out lines that do not contain the pattern bin
 - 18-letteronly script created to match alphabet at the begining of the line
+- 19-AZ script created to replace character A and c from input to Z and e
