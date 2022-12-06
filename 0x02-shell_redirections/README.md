@@ -20,4 +20,5 @@
 - 18-letteronly script created to match alphabet at the begining of the line
 - 19-AZ script created to replace character A and c from input to Z and e
 - 20-hiago script created to remove charater c and C
-- 21-reverse script created to reverse its inputs 
+- 21-reverse script created to reverse its inputs
+- 22-users_and_homes script created to show sorted users and home directories 
