@@ -10,4 +10,5 @@
 - 8-true_knowledge script outputs addition operation
 - 9-divide_and_rule script outputs division operation on environment viriables
 - 10-love_exponent_breath script performs power operation on enironment viriables
-- 11-binary_to_decimal script converts binary to decimal 
+- 11-binary_to_decimal script converts binary to decimal
+- 12-combinations  script perform combinations of lower case letters 
